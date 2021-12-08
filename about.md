@@ -1,1 +1,3 @@
-About page
+Hey, I am Nicholas Rojas-Abella.<br />
+<br />
+I am a second year student at Wilfrid Laurier University studying User Experience and Design. I have always been inspired to use my imagination to create new experiences for myself and others to enjoy. Currently, I am developing my skills to become a proficient UX designer. Check out some of the work I have done and get in contact with me if you would like to learn more.
