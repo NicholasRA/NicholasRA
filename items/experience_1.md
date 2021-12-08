@@ -1,1 +1,1 @@
-Experience 1 here
+Have a look around. You can check out some of my projects, learn a little bit about me or get in contact with me.

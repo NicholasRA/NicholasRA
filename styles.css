@@ -1,0 +1,72 @@
+:root{
+    --header-background-color: white;
+    --header-foreground-color: black;
+    --footer-background-color: #b9e6ff;
+    --footer-foreground-color: #090c9b;
+    --nav-background-color: #b9e6ff ;
+    --nav-foreground-color: #090c9b;
+    --a-background-color: #b9e6ff;
+    --a-foreground-color: #090c9b;
+}   
+
+.navbar-brand {
+    color:var(--nav-foreground-color)!important;
+    background-color: var(--nav-background-color) !important;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 22px;
+    font-family: 'Spartan', sans-serif;
+    font-weight: bold;
+}
+
+nav.bg-dark{
+    color:var(--nav-foreground-color);
+    background-color: var(--nav-background-color) !important;
+    font-family: 'Spartan', sans-serif;
+    min-height: 12vh;
+    font-weight: bold; 
+}
+
+li.nav-links {
+    list-style: none;
+}
+
+li a.nav-link {
+    color:var(--a-foreground-color) !important;
+    margin-right: 0.5em;
+    margin-left: 0.5em;
+    letter-spacing: 2px;
+    font-size: 16px;
+}
+
+.page-title {
+    font-family: 'Spartan', sans-serif;
+    margin: 1em;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    text-align: center;
+}
+
+main {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin: 1em;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+}
+
+
+footer {
+    color:var(--footer-foreground-color);
+    background-color: var(--footer-background-color);
+    justify-content: space-around;
+    min-height: 6vh;
+    align-items: center;
+    display: flex;
+    font-family: 'Spartan', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+img{
+    max-width: 90%;
+}
